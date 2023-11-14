@@ -1,0 +1,48 @@
+/* Created by Shubham Pandey */
+body {
+    background-color:lightgrey;
+}
+
+.container{
+    text-align: center;
+    margin-top:12px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 18px;
+    border: 4px solid #244624;
+    font-size:28px;
+    height: 45px;
+    width: 270px;
+}
+
+button{
+    border-radius: 16px;
+    font-size: 25px;
+    background: #104E8B;
+    width: 55px;
+    height: 55px;
+    margin: 5px;
+    border-color:black;
+}
+
+.calculator{ 
+    border: 2px solid #13695d;
+    background-color: #8B8386;
+    padding: 8px;
+    border-radius: 20px;
+    display: inline-block;
+    border-color:black;
+    
+}
+
+h1{
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+}body {
+    
+}
